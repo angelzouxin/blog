@@ -1,0 +1,2 @@
+# blog
+delay my hexo
