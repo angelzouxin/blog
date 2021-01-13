@@ -1,2 +1,2 @@
 # blog
-delay my hexo
+deploy my hexo
